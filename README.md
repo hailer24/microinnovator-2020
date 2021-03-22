@@ -26,10 +26,3 @@ Whenever there will be a seizure, the NodeMCU will send data to IFTTT and an LED
 ```
 IFTTT will generate an SMS, containing the GPS location of the user to the registered numbers immediately after receiving the data.
 ```
-## Circuit
-
-![circuit_image](https://github.com/iamakkar/Soteria/blob/main/Images/circuit.jpg?raw=true)
-
-## Preview
-
-![preview_image](https://github.com/iamakkar/Soteria/blob/main/Images/sample.png?raw=true)
